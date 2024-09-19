@@ -3,7 +3,7 @@ package CodeForces;
 // https://codeforces.com/problemset/problem/71/A
 public class CodeForces_71A {
     public static String abbreviations(String word) {
-        if (word.length() > 100) {
+        if (word.length() > 100 || word.isEmpty()) {
             throw new IllegalArgumentException("No such word exists.");
         }
         StringBuilder sb = new StringBuilder(word);
