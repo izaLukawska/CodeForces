@@ -22,7 +22,7 @@ class CodeForces_50ATest {
 	}
 
 	@Test
-	void shouldThrowIllegalArgumentExceptionWithMessage(){
+	void shouldThrowIllegalArgumentException(){
 		//given
 		int width = 0;
 		int length = 17;
