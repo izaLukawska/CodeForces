@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c61cc5fe-aa36-4e8a-9558-d61a6fc87f92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CodeForces/CodeForces_71A_Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CodeForces/CodeForces_112ATest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CodeForces/CodeForces_112A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CodeForces/CodeForces_112A.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "Code__Forces__71A__Test"
+    "git-widget-placeholder": "CodeForces__112ATest",
+    "last_directory_selection": "/Users/idkimfrmpl/IdeaProjects/CodeForces/src/test/java/CodeForces"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -58,7 +58,37 @@
       <recent name="CodeForces" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.CodeForces_112ATest">
+    <configuration name="CodeForces_110A_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeForces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodeForces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CodeForces" />
+      <option name="MAIN_CLASS_NAME" value="CodeForces.CodeForces_110A_Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeForces_112ATest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodeForces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodeForces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CodeForces" />
+      <option name="MAIN_CLASS_NAME" value="CodeForces.CodeForces_112ATest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CodeForces_71A_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodeForces" />
       <extension name="coverage">
@@ -76,6 +106,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CodeForces_112ATest" />
+        <item itemvalue="JUnit.CodeForces_71A_Test" />
+        <item itemvalue="JUnit.CodeForces_110A_Test" />
         <item itemvalue="JUnit.CodeForces_71A_Test" />
       </list>
     </recent_temporary>
@@ -105,19 +138,34 @@
     <option name="LAST_COMMIT_MESSAGE" value="test for Code Forces 59A and refactored code in Code_Forces_59A class" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CodeForces$CodeForces_112A_Test.ic" NAME="CodeForces_112A_Test Coverage Results" MODIFIED="1726751946412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>CodeForces.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/CodeForces$CodeForces_59A_Test.ic" NAME="CodeForces_59A_Test Coverage Results" MODIFIED="1726745993653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>CodeForces.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/CodeForces$CodeForces_4A_Test.ic" NAME="CodeForces_4A_Test Coverage Results" MODIFIED="1726678510021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>CodeForcesTest.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/CodeForces$CodeForces_59ATest.ic" NAME="CodeForces_59ATest Coverage Results" MODIFIED="1728645726452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>CodeForces.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/CodeForces$CodeForces_50A_Test.ic" NAME="CodeForces_50A_Test Coverage Results" MODIFIED="1726744914080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>CodeForces.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/CodeForces$CodeForces_110ATest.ic" NAME="CodeForces_110ATest Coverage Results" MODIFIED="1728649320125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>CodeForces.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/CodeForces$CodeForces_4ATest.ic" NAME="CodeForces_4ATest Coverage Results" MODIFIED="1726678595524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>CodeForces.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/CodeForces$CodeForces_71A_Test.ic" NAME="CodeForces_71A_Test Coverage Results" MODIFIED="1726753547843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>CodeForces.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/CodeForces$CodeForces_41ATest.ic" NAME="CodeForces_41ATest Coverage Results" MODIFIED="1726682898067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>CodeForces.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/CodeForces$CodeForces_110A_Test.ic" NAME="CodeForces_110A_Test Coverage Results" MODIFIED="1726747766895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>CodeForces.*</FILTER>
     </SUITE>
   </component>
