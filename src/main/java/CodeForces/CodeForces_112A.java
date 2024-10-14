@@ -3,10 +3,10 @@ package CodeForces;
 //https://codeforces.com/problemset/problem/112/A
 
 public class CodeForces_112A {
-    public static int stringComparison(String one, String two) {
-        if (one.length() != two.length()) {
+    public static int stringComparison(String first, String second) {
+        if (first.length() != second.length()) {
             throw new IllegalArgumentException("Strings must be equal");
         }
-        return Integer.compare(one.compareToIgnoreCase(two), 0);
+        return Integer.compare(first.compareToIgnoreCase(second), 0);
     }
 }
